@@ -5,8 +5,8 @@ Welcome to Dark Mode, an initiative by BYU IT&CSA to introduce essential topics 
 1.  GitHub
 2.  Linux
 3.  VSCode
-4.  Something
-5.  Something
+4.  Raspberry Pi
+5.  Troubleshooting
 6.  Something (Vote)
 7.  Something (Vote)
 
