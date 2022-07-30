@@ -2,6 +2,8 @@
 
 Steven Palica
 
+---
+
 ## What is source control?
 
 Acording to [Amazon](https://aws.amazon.com/devops/source-control/)
