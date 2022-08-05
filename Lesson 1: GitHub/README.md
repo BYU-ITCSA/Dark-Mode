@@ -14,6 +14,9 @@ Have you ever needed to make a change to a file, but wanted to keep a previous v
 
 If you answered *yes* to any of those questions, you are not alone. In fact, these were many of the same issues early programmers ran into when developing software. Source control applications meet many of these needs. One of the main ones used in the industry is Git.
 
+![Why you should learn Git](learn_git.png)
+[Source](https://www.reddit.com/r/sysadmin/comments/wgf6xo/lets_change_prod_but_use_test_as_a_backup_just_in/)
+
 ## What is Git?
 
 According to [Git](https://git-scm.com/)
