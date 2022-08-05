@@ -9,7 +9,7 @@ Welcome to Dark Mode, an initiative by BYU IT&CSA to introduce essential topics 
 3. VSCode - Oct. 19, 2022
 4. Raspberry Pi - Nov. 2, 2022
 5. Troubleshooting - Nov. 16, 2022
-6. Student Choice (Vote) - Nov. 30, 2022
+6. Virtualization - Nov. 30, 2022
 
 ## Winter 2023 Semester
 
@@ -25,7 +25,6 @@ Most of these topics are not covered well in class until much later in the progr
 
 You will notice that there are a few weeks with no topic planned. We would like to take some suggested topics to talk about. We have also created a list of topics we think would be interesting, and will pull some of the topics from this list as well. We try to avoid security and networking related topics as those are already covered very well by the Cybersecurity Student Association and Network Engineering Club. If you are interested in either of those topics, we encourage you to get invloved with those organizations.
 
-* Virtualization
 * Containerization
 * Server Room/Data Center
 * How to Build a Computer
