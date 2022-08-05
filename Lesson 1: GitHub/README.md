@@ -22,6 +22,7 @@ According to [Git](https://git-scm.com/)
 Git allows you to create a *repository* (also called a *repo*) to store files. Anyone with access may *clone* the repository to create a local copy of the files. A *branch* is used to keep changes from adversely affecting each other. While working on a branch, you may need to *commit* then *push* any changes you make to the *remote*. Anyone else working on the project can *pull* the repository to see your changes. Once changes have been tested, you may *merge* the branch with another to put it into production.
 
 ![Why you should learn Git](learn_git.png)
+
 [Source](https://www.reddit.com/r/sysadmin/comments/wgf6xo/lets_change_prod_but_use_test_as_a_backup_just_in/)
 
 ### What is a Repository?
