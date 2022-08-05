@@ -14,15 +14,15 @@ Have you ever needed to make a change to a file, but wanted to keep a previous v
 
 If you answered *yes* to any of those questions, you are not alone. In fact, these were many of the same issues early programmers ran into when developing software. Source control applications meet many of these needs. One of the main ones used in the industry is Git.
 
-![Why you should learn Git](learn_git.png)
-[Source](https://www.reddit.com/r/sysadmin/comments/wgf6xo/lets_change_prod_but_use_test_as_a_backup_just_in/)
-
 ## What is Git?
 
 According to [Git](https://git-scm.com/)
 >Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency. 
 
 Git allows you to create a *repository* (also called a *repo*) to store files. Anyone with access may *clone* the repository to create a local copy of the files. A *branch* is used to keep changes from adversely affecting each other. While working on a branch, you may need to *commit* then *push* any changes you make to the *remote*. Anyone else working on the project can *pull* the repository to see your changes. Once changes have been tested, you may *merge* the branch with another to put it into production.
+
+![Why you should learn Git](learn_git.png)
+[Source](https://www.reddit.com/r/sysadmin/comments/wgf6xo/lets_change_prod_but_use_test_as_a_backup_just_in/)
 
 ### What is a Repository?
 A repository is a selection of files that you want to track. Generally, these files contain source code and documentation, but they can contain any files. While not required, it is useful to use a service like GitHub (a company owned by Microsoft) to store a copy of the repository on the internet. This allows anyone with an internet connection to access the repository.
