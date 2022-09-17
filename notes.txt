@@ -14,7 +14,7 @@ https://www.youtube.com/watch?v=EueLKSuqyk4
     - Technical Knowledge
 - 6 Steps To Troubleshoot 
     1. Define the Problem:  Take a look at the big picture.  What are all of the symptoms?
-        Identify specific errors.  Ask helpful questions.
+        Identify specific errors.  Ask helpful questions. What is the actual problem?
     2. Collect relevant information: Stack Overflow, instructions, etc. Things that will
         help understand the system.
     3. Analyze steps 1+2: Has the system changed recently?  Has it been used differently?
@@ -26,4 +26,5 @@ https://www.youtube.com/watch?v=EueLKSuqyk4
         Create a virtual machine or save a snapshot if you can.
     5. Implement the solution.
     6. Document: Especially if you are doing it for work or a personal project.
-    
+
+https://community.spiceworks.com/how_to/628-troubleshooting-101
