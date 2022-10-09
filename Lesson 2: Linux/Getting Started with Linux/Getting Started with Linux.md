@@ -14,7 +14,7 @@ Here are a few ways to get started with Linux:
 
 ## Use a VM
 ### Overview:
-Using a VM is probably the easiest way to get started. To do this, you will need to install a hypervisor on your computer. VMWare Workstation Player is a good choice, and should be free for personal use. It is easy to use, and works well for most desktop virtualization needs. It can be downloaded from their website [here].(https://www.vmware.com/content/vmware/vmware-published-sites/us/products/workstation-player/workstation-player-evaluation.html.html). Look at the lesson on virtualization for more information on installing and using a VM. Other hypervisors are available if desired.
+Using a VM is probably the easiest way to get started. To do this, you will need to install a hypervisor on your computer. VMWare Workstation Player is a good choice, and should be free for personal use. It is easy to use, and works well for most desktop virtualization needs. It can be downloaded from their website [here](https://www.vmware.com/content/vmware/vmware-published-sites/us/products/workstation-player/workstation-player-evaluation.html.html). Look at the lesson on virtualization for more information on installing and using a VM. Other hypervisors are available if desired.
 
 ### Pros:
 * Free
