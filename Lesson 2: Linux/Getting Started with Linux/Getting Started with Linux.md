@@ -45,12 +45,15 @@ Using a VM is probably the easiest way to get started. To do this, you will need
 
 ### Pros:
 * Extremely easy installation
+* Easily integrated with Windows and most hassle-free setup for Windows
 * Most CLI based tools can be installed and used normally
+* Docker for Windows and VSCode are both integrated with WSL
 
 ### Cons:
 * Only works on Windows (not MacOS)
 * Some things just don't work the way they should on WSL. Many things that require a GUI just don't work.
 * Setting up a GUI requires configuration for a remote desktop connection which increaces latency (it is kind of laggy)
+* Networking and DNS issues can arise, so custom network settings do not mesh well
 
 ## Use the Cloud
 ### Overview
@@ -60,10 +63,13 @@ The cloud is a great way to get started with Linux without any risk of messing u
 * You can use more powerful hardware than you normally could
 * You can access it from anywhere
 * Requires no hardware resources
+* Can try more operating systems without having to set them up
 
 ### Cons:
 *  It costs money. Realistically, you can get a low-spec VM in EC2 for pretty cheap, and they even give you free credits when you make an account. It is easy to leave one on accidentally one day, then get a bill every month until you remember to shut it down.
 * It is exposed to the internet by default and needs to be secured
+* Terminology used for cloud technologies can be confusing.
+* The process of creating an EC2 instance can be confusing if you've never done it before. 
 
 ## Dual Boot
 ### Overview: 
