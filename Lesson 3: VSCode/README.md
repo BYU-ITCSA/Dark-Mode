@@ -1,7 +1,5 @@
 # Visual Studio Code
 
----
-
 [Download VS Code here](https://code.visualstudio.com/download)
 
 ## Overview
@@ -23,5 +21,3 @@ In purple, we have the file structure/layout.  This is the entire structure of y
 <img width="1053" alt="Screen Shot 2022-10-18 at 11 38 55 PM" src="https://user-images.githubusercontent.com/59840208/196606176-bb616d56-817a-4ef1-af82-73a27b1c8ef8.png">
 
 These are the default keyboard shortcuts for VSCode.  Learning them will allow you to create code fast and efficiently.  To change them, go into VS code preferences and keyboard shortcuts.  Here you can customize any shortcuts you would like.
-
----
