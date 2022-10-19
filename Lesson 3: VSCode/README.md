@@ -21,3 +21,23 @@ In purple, we have the file structure/layout.  This is the entire structure of y
 <img width="1053" alt="Screen Shot 2022-10-18 at 11 38 55 PM" src="https://user-images.githubusercontent.com/59840208/196606176-bb616d56-817a-4ef1-af82-73a27b1c8ef8.png">
 
 These are the default keyboard shortcuts for VSCode.  Learning them will allow you to create code fast and efficiently.  To change them, go into VS code preferences and keyboard shortcuts.  Here you can customize any shortcuts you would like.
+
+## Developing in VSCode
+
+There are a few ways to get a new project started in VS code.  The two methods mentioned here are starting a new file for single files programs, and starting a new folder for multi-file programs.  The following image is what you will see when you first open VSCode and have no current projects opened (note colours may vary dependent on theme).
+
+<img width="439" alt="Screen Shot 2022-10-19 at 10 19 18 AM" src="https://user-images.githubusercontent.com/59840208/196748075-056647ad-5f59-428c-becb-ec23ab971fe2.png">
+
+### Starting a project from a new file
+
+Starting a project from a new file is good if you have a single file that needs to be edited.  This may be good for simple programs such as a "Hello World" program (as the most basic example).  Avoid this option if you will need to integrate this file into a larger project at a later time or if you would like to add github or source control integration.  For larger programs, there are more efficient ways to add a file that will cause less error.
+
+Begin by clicking the "New File..." option from the home page of VSCode (shown above).
+
+<img width="136" alt="Screen Shot 2022-10-19 at 10 24 04 AM" src="https://user-images.githubusercontent.com/59840208/196749110-fc40fc5e-fc4b-41e8-bd68-c646ad16b056.png">
+
+When prompted to enter a new name, name your file.  You may add the file extension here as well if you wish.
+
+Next, your file manager should pop up. This will be your finder window on a mac and the file explorer on a windows.  Browse through your files to find a folder that you wish to put this newly created file in.  
+
+Once selected, the file will either automatically open, or give a prompt asking if you would like to open it in VScode.
