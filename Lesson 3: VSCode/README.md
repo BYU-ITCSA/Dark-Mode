@@ -41,3 +41,7 @@ When prompted to enter a new name, name your file.  You may add the file extensi
 Next, your file manager should pop up. This will be your finder window on a mac and the file explorer on a windows.  Browse through your files to find a folder that you wish to put this newly created file in.  
 
 Once selected, the file will either automatically open, or give a prompt asking if you would like to open it in VScode.
+
+https://code.visualstudio.com/docs/introvideos/debugging
+
+https://code.visualstudio.com/docs/terminal/basics
