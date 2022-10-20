@@ -42,6 +42,8 @@ Next, your file manager should pop up. This will be your finder window on a mac 
 
 Once selected, the file will either automatically open, or give a prompt asking if you would like to open it in VScode.
 
+GITHUB INTEGRATION: https://github.com/BYU-ITCSA/Dark-Mode/blob/main/Lesson%201:%20Git%20and%20Source%20Control/vscode.md
+
 https://code.visualstudio.com/docs/introvideos/debugging
 
 https://code.visualstudio.com/docs/terminal/basics
