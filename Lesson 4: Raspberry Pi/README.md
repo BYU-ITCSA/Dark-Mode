@@ -1,3 +1,25 @@
 # Raspberry Pi
 
 Wes Colemere
+
+---
+
+## What is a Raspberry Pi?
+
+<p>Raspberry Pi is a small computer meant to encourage people to learn how to code at an affordable price. <i>(So long as they're in stock)</i></p>
+<img src="https://assets.raspberrypi.com/static/raspberry-pi-4-labelled-f5e5dcdf6a34223235f83261fa42d1e8.png" title="Raspberry Pi 4B Diagram" alt="Raspberry Pi 4B Diagram">
+<p>The best place to find one is on the official website: https://www.raspberrypi.com/. Here you can find official resellers for different areas of the world. It's worth noting that shops servicing foreign areas may occasionally have models in stock that your local retailers do not, or vice versa.</p>
+
+## Are there different kinds of Pis?
+
+<p>Rasberry Pi comes in a variety of shapes and sizes. You can view a full list of their products here: https://www.raspberrypi.com/products/. You'll notice that certain models follow specific naming schemes that do not match the others.</p> 
+
+<p>The basic Raspberry Pi is organized by generation and model: for example, the Raspberry Pi 3B is the second revision of the 3rd generation Raspberry Pi computer. Its successor, the Raspberry Pi 3B+, is the final revision of the 3rd generation Raspberry Pi computer. Higher numbers indicate more recent generations of hardware and letters and '+' signs indicate revision and format (you'll notice that A+ models differ in soldered on hardware from B+ models).</p>
+
+<p>The Raspberry Pi Foundation also makes several other 'flavors' of Raspberry Pi. The Raspberry Pi Zero, for example, is an extra small version of the Raspberry Pi computer. It can indeed be used as a computer the same way that a regular Pi would be, albeit with less powerful components. The Raspberry Pi Zero W is the same, except that it also has wireless capabilities. The Raspberry Pi Pico is another exciting flavor in the form of a microcontroller for embedded systems. This means that it is designed specifically for usage in applications such as thermostats, smart cameras, automated pet feeders, and so on.</p>
+
+<p> There are also other kinds of of hardware that the Raspberry Pi Foundation offers for more specific applications. The Raspberry Pi 400 is a Raspberry Pi 4B inside of a keyboard, meant for lightweight desktop use. The Compute Module is a unique format designed for embedded systems and scientific applications. People do cool things with these. </p>
+
+## So which one do I get?
+
+<p> The first thing to do is to ask <i> what do I want to do.<i> The latest Raspberry Pi model may have more resources than you need if you wanted to, for example, create a website. This means that you will likely need to investigate the computing requirements of your project.</p>
