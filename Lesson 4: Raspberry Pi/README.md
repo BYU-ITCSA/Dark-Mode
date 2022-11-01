@@ -22,4 +22,4 @@ Wes Colemere
 
 ## So which one do I get?
 
-<p> The first thing to do is to ask <i> what do I want to do.<i> The latest Raspberry Pi model may have more resources than you need if you wanted to, for example, create a website. This means that you will likely need to investigate the computing requirements of your project.</p>
+<p> The first thing to do is to ask <i> what do I want to do.</i> The latest Raspberry Pi model may have more resources than you need if you wanted to, for example, create a website. This means that you will likely need to investigate the computing requirements of your project.</p>
