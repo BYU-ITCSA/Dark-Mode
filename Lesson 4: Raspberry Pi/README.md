@@ -1,7 +1,5 @@
 # Raspberry Pi
 
-Wes Colemere
-
 ---
 
 ## What is a Raspberry Pi?
