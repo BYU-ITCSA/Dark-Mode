@@ -18,8 +18,12 @@ Wes Colemere
 
 <p>The Raspberry Pi Foundation also makes several other 'flavors' of Raspberry Pi. The Raspberry Pi Zero, for example, is an extra small version of the Raspberry Pi computer. It can indeed be used as a computer the same way that a regular Pi would be, albeit with less powerful components. The Raspberry Pi Zero W is the same, except that it also has wireless capabilities. The Raspberry Pi Pico is another exciting flavor in the form of a microcontroller for embedded systems. This means that it is designed specifically for usage in applications such as thermostats, smart cameras, automated pet feeders, and so on.</p>
 
-<p> There are also other kinds of of hardware that the Raspberry Pi Foundation offers for more specific applications. The Raspberry Pi 400 is a Raspberry Pi 4B inside of a keyboard, meant for lightweight desktop use. The Compute Module is a unique format designed for embedded systems and scientific applications. People do cool things with these. </p>
+<p>There are also other kinds of of hardware that the Raspberry Pi Foundation offers for more specific applications. The Raspberry Pi 400 is a Raspberry Pi 4B inside of a keyboard, meant for lightweight desktop use. The Compute Module is a unique format designed for embedded systems and scientific applications. People do cool things with these. </p>
 
-## So which one do I get?
+## Which one do I get?
 
-<p> The first thing to do is to ask <i> what do I want to do.</i> The latest Raspberry Pi model may have more resources than you need if you wanted to, for example, create a website. This means that you will likely need to investigate the computing requirements of your project.</p>
+<p>The first thing to do is to ask <i> what do I want to do.</i> The latest Raspberry Pi model may have more resources than you need if you wanted to, for example, create a website. This means that you will likely need to investigate the computing requirements of your project. For most applications, a basic Raspberry Pi (e.g. RPi 4B, RPi 3, etc.) will suffice. Finding an RPi nowdays can be rather difficult; this website is a helpful resource for finding retailers with Pis in stock: https://rpilocator.com/</p>
+
+## How do I start using my RPi?
+
+<p>In order to start using your Raspberry Pi you will need to 'flash' an operating system onto the Pi. The easiest way to do this is to connect your RPi to a computer via a USB cable connected to the power connector on the RPi (this is the USB-C connector on the Raspberry Pi 4B).</p>
