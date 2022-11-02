@@ -36,4 +36,8 @@ Wes Colemere
 
 ![The Raspberry Pi Imager Main Menu](rpi-imager-mainmenu.png)
 
-<p>The first button will allow you to select an operating system from officially supported images (you may also select an operating system from an image saved on your own computer, but this may require additional configuration). </p>
+<p>The first button will allow you to select an operating system from officially supported images (you may also select an operating system from an image saved on your own computer, but this may require additional configuration). The menu will show you a recommended image, likely a version of Raspberry Pi OS, for installation (Note: this may vary from system to system). For this tutorial, we will use this image.</p>
+
+![The Raspberry Pi Imager OS Selection Menu](rpi-imager-osmenu.png)
+
+<p>The next button will allow you to select a drive for installation. Raspberry Pi Imager is set up such that it will likely select your intended drive for you or show your SD card as the only available drive for imaging. Select the drive you intend to write your image to.</p>
