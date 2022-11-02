@@ -27,3 +27,13 @@ Wes Colemere
 ## How do I start using my RPi?
 
 <p>In order to start using your Raspberry Pi you will need to 'flash' an operating system onto the Pi. The easiest way to do this is to connect your RPi to a computer via a USB cable connected to the power connector on the RPi (this is the USB-C connector on the Raspberry Pi 4B).</p>
+
+![The power supply is connected to the port parallel to the GPIO headers on a pi](pi-blueprint.png)
+
+<p>Once your RPi is connected to your computer, you may begin flashing you RPi by using an SD card imager, we recommend using the official Raspberry Pi Imager: https://www.raspberrypi.com/software/ (There are other imagers you may use, though the official imager is easiest to use).</p>
+
+<p>Raspberry Pi Imager will present you with the following menu:</p>
+
+![The Raspberry Pi Imager Main Menu](rpi-imager-mainmenu.png)
+
+<p>The first button will allow you to select an operating system from officially supported images. You may also select an operating system from an image saved on your own computer, but this may require additional configuration.</p>
