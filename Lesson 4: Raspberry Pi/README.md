@@ -36,4 +36,4 @@ Wes Colemere
 
 ![The Raspberry Pi Imager Main Menu](rpi-imager-mainmenu.png)
 
-<p>The first button will allow you to select an operating system from officially supported images. You may also select an operating system from an image saved on your own computer, but this may require additional configuration.</p>
+<p>The first button will allow you to select an operating system from officially supported images (you may also select an operating system from an image saved on your own computer, but this may require additional configuration). </p>
