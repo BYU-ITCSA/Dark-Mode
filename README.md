@@ -29,5 +29,6 @@ You will notice that there are a few weeks with no topic planned. We would like 
 * Server Room/Data Center
 * How to Build a Computer
 * Internet of Things/Hardware Hacking
+* Soldering
 
 Files for these topics can be found in the relevent folder in this repository.
