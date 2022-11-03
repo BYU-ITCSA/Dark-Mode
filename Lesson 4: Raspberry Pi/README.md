@@ -39,3 +39,5 @@
 ![The Raspberry Pi Imager OS Selection Menu](rpi-imager-osmenu.png)
 
 <p>The next button will allow you to select a drive for installation. Raspberry Pi Imager is set up such that it will likely select your intended drive for you or show your SD card as the only available drive for imaging. Select the drive you intend to write your image to.</p>
+
+<p>The third button will write the image to the drive/SD card. Before clicking this button, click the gear icon to adjust a couple of cool features.</p>
