@@ -13,9 +13,9 @@ Welcome to Dark Mode, an initiative by BYU IT&CSA to introduce essential topics 
 
 ## Winter 2023 Semester
 
-7. January 18, 2023
-8. February 1, 2023
-9. February 15, 2023
+7. How to Build a Computer - January 18, 2023
+8. Containerization - February 1, 2023
+9. AWS/Cloud (Amazon Web Services) - February 15, 2023
 10. March 1, 2023
 11. March 15, 2023
 12. March 29, 2023
